@@ -1,12 +1,12 @@
 # A General Rubric for Peer Review in Visualization Courses
 
 ## Contributors
-<a href="https://alonfriedman.net">Alon Friedman</a>, University of South Florida
+<a href="https://alonfriedman.net">Alon Friedman</a>, University of South Florida \
 <a href="https://cspaul.com">Paul Rosen</a>, University of Utah
 
 ## Citation
-Leveraging peer review in visualization education: A proposal for a new model
-Alon Friedman, Paul Rosen, Pedagogy of Visualization Workshop at IEEE VIS, 2017
+Leveraging peer review in visualization education: A proposal for a new model \
+Alon Friedman, Paul Rosen, Pedagogy of Visualization Workshop at IEEE VIS, 2017 \
 <a href="https://arxiv.org/abs/2101.07708">https://arxiv.org/abs/2101.07708</a>
 
 ## Abstract
